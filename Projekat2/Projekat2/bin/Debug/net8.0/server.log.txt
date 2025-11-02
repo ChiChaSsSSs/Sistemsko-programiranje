@@ -1,0 +1,72 @@
+[2025-11-01 21:52:15] [T1] Server started at http://localhost:8080/
+[2025-11-01 21:52:25] [T6] REQUEST => GET http://localhost:8080/ from [::1]:57853
+[2025-11-01 21:52:25] [T4] REQUEST => GET http://localhost:8080/ from [::1]:57853
+[2025-11-01 21:52:25] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/
+[2025-11-01 21:52:26] [T6] REQUEST => GET http://localhost:8080/ from [::1]:57853
+[2025-11-01 21:52:26] [T4] REQUEST => GET http://localhost:8080/ from [::1]:57853
+[2025-11-01 21:52:26] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/
+[2025-11-01 21:52:35] [T6] REQUEST => GET http://localhost:8080/ from [::1]:57853
+[2025-11-01 21:52:35] [T4] REQUEST => GET http://localhost:8080/ from [::1]:57853
+[2025-11-01 21:52:35] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/
+[2025-11-01 21:52:36] [T6] REQUEST => GET http://localhost:8080/ from [::1]:57853
+[2025-11-01 21:52:36] [T4] REQUEST => GET http://localhost:8080/ from [::1]:57853
+[2025-11-01 21:52:36] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/
+[2025-11-01 21:52:37] [T6] REQUEST => GET http://localhost:8080/ from [::1]:57853
+[2025-11-01 21:52:37] [T4] REQUEST => GET http://localhost:8080/ from [::1]:57853
+[2025-11-01 21:52:37] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/
+[2025-11-01 21:52:38] [T6] REQUEST => GET http://localhost:8080/ from [::1]:57853
+[2025-11-01 21:52:38] [T4] REQUEST => GET http://localhost:8080/ from [::1]:57853
+[2025-11-01 21:52:38] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/
+[2025-11-01 21:52:44] [T6] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:44] [T4] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:44] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-01 21:52:46] [T6] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:46] [T4] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:46] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-01 21:52:47] [T6] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:47] [T4] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:47] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-01 21:52:47] [T6] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:47] [T4] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:47] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-01 21:52:48] [T6] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:48] [T4] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:48] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-01 21:52:48] [T6] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:48] [T4] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:48] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-01 21:52:48] [T6] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:48] [T4] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:48] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-01 21:52:48] [T6] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:48] [T4] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:57853
+[2025-11-01 21:52:48] [T4] RESPONSE => 200 46 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-01 21:52:53] [T1] Server stopped.
+[2025-11-01 21:52:53] [T6] ERROR    => HttpListenerException (while processing request): The I/O operation has been aborted because of either a thread exit or an application request.
+[2025-11-01 21:56:22] [T1] Server started at http://localhost:8080/
+[2025-11-01 21:56:23] [T10] Initial SpaceX data loaded.
+[2025-11-01 21:56:53] [T6] REQUEST => GET http://localhost:8080/ from [::1]:53266
+[2025-11-01 21:56:53] [T4] REQUEST => GET http://localhost:8080/ from [::1]:53266
+[2025-11-01 21:56:53] [T4] ROUTE => /
+[2025-11-01 21:56:53] [T4] CACHE MISS => /
+[2025-11-01 21:56:53] [T4] RESPONSE => 200 39 bytes for http://localhost:8080/
+[2025-11-01 21:56:59] [T6] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:53266
+[2025-11-01 21:56:59] [T4] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:53266
+[2025-11-01 21:56:59] [T4] ROUTE => /search
+[2025-11-01 21:56:59] [T4] CACHE MISS => /search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-01 21:56:59] [T4] RESPONSE => 200 360 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-01 21:57:09] [T6] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:53266
+[2025-11-01 21:57:09] [T4] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:53266
+[2025-11-01 21:57:09] [T4] CACHE HIT => /search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-01 21:57:09] [T4] RESPONSE => 200 360 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-01 21:57:17] [T6] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb&success=true from [::1]:53266
+[2025-11-01 21:57:17] [T4] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb&success=true from [::1]:53266
+[2025-11-01 21:57:17] [T4] ROUTE => /search
+[2025-11-01 21:57:17] [T4] CACHE MISS => /search?rocket=5e9d0d95eda69955f709d1eb&success=true
+[2025-11-01 21:57:17] [T4] RESPONSE => 200 141 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb&success=true
+[2025-11-01 21:57:28] [T6] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb&success=true from [::1]:53266
+[2025-11-01 21:57:28] [T4] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb&success=true from [::1]:53266
+[2025-11-01 21:57:28] [T4] CACHE HIT => /search?rocket=5e9d0d95eda69955f709d1eb&success=true
+[2025-11-01 21:57:28] [T4] RESPONSE => 200 141 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb&success=true
+[2025-11-01 21:57:34] [T1] Server stopped.
+[2025-11-01 21:57:34] [T6] ERROR    => HttpListenerException (while processing request): The I/O operation has been aborted because of either a thread exit or an application request.

@@ -1,0 +1,14 @@
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\bin\Debug\net8.0\Projekat2.exe
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\bin\Debug\net8.0\Projekat2.deps.json
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\bin\Debug\net8.0\Projekat2.runtimeconfig.json
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\bin\Debug\net8.0\Projekat2.dll
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\bin\Debug\net8.0\Projekat2.pdb
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\obj\Debug\net8.0\Projekat2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\obj\Debug\net8.0\Projekat2.AssemblyInfoInputs.cache
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\obj\Debug\net8.0\Projekat2.AssemblyInfo.cs
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\obj\Debug\net8.0\Projekat2.csproj.CoreCompileInputs.cache
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\obj\Debug\net8.0\Projekat2.dll
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\obj\Debug\net8.0\refint\Projekat2.dll
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\obj\Debug\net8.0\Projekat2.pdb
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\obj\Debug\net8.0\Projekat2.genruntimeconfig.cache
+D:\Fakultet\Šesti semestar\Sistemsko programiranje\Projekat2\Projekat2\obj\Debug\net8.0\ref\Projekat2.dll

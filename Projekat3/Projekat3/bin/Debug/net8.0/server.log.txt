@@ -1,0 +1,252 @@
+[2025-11-02 19:21:30] [T1] Server started at http://localhost:8080/
+[2025-11-02 19:21:36] [T11] [START] http://localhost:8080/ - obrada na niti 11
+[2025-11-02 19:21:36] [T11] RESPONSE => 400 49 bytes for http://localhost:8080/
+[2025-11-02 19:21:36] [T11] [END] http://localhost:8080/ - završena obrada na niti 11
+[2025-11-02 19:21:36] [T11] [START] http://localhost:8080/favicon.ico - obrada na niti 11
+[2025-11-02 19:21:36] [T11] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 19:21:36] [T11] [END] http://localhost:8080/favicon.ico - završena obrada na niti 11
+[2025-11-02 19:21:51] [T11] [START] http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb - obrada na niti 11
+[2025-11-02 19:21:51] [T11] RESPONSE => 400 49 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-02 19:21:51] [T11] [END] http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb - završena obrada na niti 11
+[2025-11-02 19:22:05] [T11] [START] http://localhost:8080/?q=harry+potter - obrada na niti 11
+[2025-11-02 19:22:06] [T6] Error while processing request: JSON deserialization for type 'Projekat3.Entities.BookList' was missing required properties, including the following: Items
+[2025-11-02 19:23:51] [T1] Server started at http://localhost:8080/
+[2025-11-02 19:24:04] [T12] [START] http://localhost:8080/ - Process on thread: 12
+[2025-11-02 19:24:25] [T12] RESPONSE => 400 49 bytes for http://localhost:8080/
+[2025-11-02 19:24:25] [T12] [END] http://localhost:8080/ - Finished process on thread: 12
+[2025-11-02 19:24:25] [T12] [START] http://localhost:8080/favicon.ico - Process on thread: 12
+[2025-11-02 19:29:49] [T1] Server started at http://localhost:8080/
+[2025-11-02 19:29:54] [T11] [START] http://localhost:8080/ - Process on thread: 11
+[2025-11-02 19:29:54] [T11] REQUEST => GET http://localhost:8080/ from [::1]:52357
+[2025-11-02 19:29:54] [T11] RESPONSE => 400 49 bytes for http://localhost:8080/
+[2025-11-02 19:29:54] [T11] [END] http://localhost:8080/ - Finished process on thread: 11
+[2025-11-02 19:29:54] [T11] [START] http://localhost:8080/favicon.ico - Process on thread: 11
+[2025-11-02 19:29:54] [T11] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:52357
+[2025-11-02 19:29:54] [T11] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 19:29:54] [T11] [END] http://localhost:8080/favicon.ico - Finished process on thread: 11
+[2025-11-02 19:29:57] [T11] [START] http://localhost:8080/?q=harry+potter - Process on thread: 11
+[2025-11-02 19:29:57] [T11] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:52357
+[2025-11-02 19:29:58] [T6] ERROR    => JsonException (ProcessRequest): JSON deserialization for type 'Projekat3.Entities.BookList' was missing required properties, including the following: Items
+[2025-11-02 19:29:58] [T6] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 6
+[2025-11-02 19:30:01] [T11] [START] http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb - Process on thread: 11
+[2025-11-02 19:30:01] [T11] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:61576
+[2025-11-02 19:30:01] [T11] RESPONSE => 400 49 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-02 19:30:01] [T11] [END] http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb - Finished process on thread: 11
+[2025-11-02 19:30:11] [T11] [START] http://localhost:8080/?q=harry+potter - Process on thread: 11
+[2025-11-02 19:30:11] [T11] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:61576
+[2025-11-02 19:30:11] [T4] ERROR    => JsonException (ProcessRequest): JSON deserialization for type 'Projekat3.Entities.BookList' was missing required properties, including the following: Items
+[2025-11-02 19:30:11] [T4] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 4
+[2025-11-02 19:31:58] [T1] Server started at http://localhost:8080/
+[2025-11-02 19:32:00] [T11] [START] http://localhost:8080/ - Process on thread: 11
+[2025-11-02 19:32:00] [T11] REQUEST => GET http://localhost:8080/ from [::1]:62457
+[2025-11-02 19:32:00] [T11] RESPONSE => 400 49 bytes for http://localhost:8080/
+[2025-11-02 19:32:00] [T11] [END] http://localhost:8080/ - Finished process on thread: 11
+[2025-11-02 19:32:00] [T11] [START] http://localhost:8080/favicon.ico - Process on thread: 11
+[2025-11-02 19:32:00] [T11] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:62457
+[2025-11-02 19:32:00] [T11] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 19:32:00] [T11] [END] http://localhost:8080/favicon.ico - Finished process on thread: 11
+[2025-11-02 19:32:04] [T11] [START] http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb - Process on thread: 11
+[2025-11-02 19:32:04] [T11] REQUEST => GET http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb from [::1]:62457
+[2025-11-02 19:32:04] [T11] RESPONSE => 400 49 bytes for http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb
+[2025-11-02 19:32:04] [T11] [END] http://localhost:8080/search?rocket=5e9d0d95eda69955f709d1eb - Finished process on thread: 11
+[2025-11-02 19:32:11] [T11] [START] http://localhost:8080/?q=harry+potter - Process on thread: 11
+[2025-11-02 19:32:11] [T11] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:62457
+[2025-11-02 19:32:12] [T6] ERROR    => JsonException (ProcessRequest): JSON deserialization for type 'Projekat3.Entities.BookList' was missing required properties, including the following: Items
+[2025-11-02 19:32:12] [T6] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 6
+[2025-11-02 19:32:12] [T11] [START] http://localhost:8080/?q=harry+potter - Process on thread: 11
+[2025-11-02 19:32:12] [T11] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:62457
+[2025-11-02 19:32:13] [T6] ERROR    => JsonException (ProcessRequest): JSON deserialization for type 'Projekat3.Entities.BookList' was missing required properties, including the following: Items
+[2025-11-02 19:32:13] [T6] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 6
+[2025-11-02 19:33:35] [T1] Server started at http://localhost:8080/
+[2025-11-02 19:33:37] [T12] [START] http://localhost:8080/ - Process on thread: 12
+[2025-11-02 19:33:43] [T12] REQUEST => GET http://localhost:8080/ from [::1]:64781
+[2025-11-02 19:35:44] [T1] Server started at http://localhost:8080/
+[2025-11-02 19:35:46] [T12] [START] http://localhost:8080/ - Process on thread: 12
+[2025-11-02 19:35:46] [T12] REQUEST => GET http://localhost:8080/ from [::1]:54495
+[2025-11-02 19:36:18] [T12] RESPONSE => 400 49 bytes for http://localhost:8080/
+[2025-11-02 19:36:18] [T12] [END] http://localhost:8080/ - Finished process on thread: 12
+[2025-11-02 19:36:18] [T12] [START] http://localhost:8080/?q=harry+potter&lang=en - Process on thread: 12
+[2025-11-02 19:36:18] [T12] REQUEST => GET http://localhost:8080/?q=harry+potter&lang=en from [::1]:55707
+[2025-11-02 19:38:28] [T1] Server started at http://localhost:8080/
+[2025-11-02 19:38:32] [T12] [START] http://localhost:8080/ - Process on thread: 12
+[2025-11-02 19:38:32] [T12] REQUEST => GET http://localhost:8080/ from [::1]:51932
+[2025-11-02 19:38:32] [T12] RESPONSE => 400 49 bytes for http://localhost:8080/
+[2025-11-02 19:38:32] [T12] [END] http://localhost:8080/ - Finished process on thread: 12
+[2025-11-02 19:38:32] [T12] [START] http://localhost:8080/favicon.ico - Process on thread: 12
+[2025-11-02 19:38:32] [T12] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:51932
+[2025-11-02 19:38:32] [T12] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 19:38:32] [T12] [END] http://localhost:8080/favicon.ico - Finished process on thread: 12
+[2025-11-02 19:38:58] [T12] [START] http://localhost:8080/?q=harry+potter - Process on thread: 12
+[2025-11-02 19:38:58] [T12] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:51932
+[2025-11-02 19:42:09] [T1] Server started at http://localhost:8080/
+[2025-11-02 19:42:12] [T12] [START] http://localhost:8080/ - Process on thread: 12
+[2025-11-02 19:42:12] [T12] REQUEST => GET http://localhost:8080/ from [::1]:58752
+[2025-11-02 19:42:12] [T12] RESPONSE => 400 49 bytes for http://localhost:8080/
+[2025-11-02 19:42:12] [T12] [END] http://localhost:8080/ - Finished process on thread: 12
+[2025-11-02 19:42:12] [T12] [START] http://localhost:8080/favicon.ico - Process on thread: 12
+[2025-11-02 19:42:12] [T12] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:58752
+[2025-11-02 19:42:12] [T12] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 19:42:12] [T12] [END] http://localhost:8080/favicon.ico - Finished process on thread: 12
+[2025-11-02 19:42:19] [T12] [START] http://localhost:8080/?q=harry+potter - Process on thread: 12
+[2025-11-02 19:42:19] [T12] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:58752
+[2025-11-02 19:45:43] [T1] Server started at http://localhost:8080/
+[2025-11-02 19:45:45] [T12] [START] http://localhost:8080/ - Process on thread: 12
+[2025-11-02 19:45:45] [T12] REQUEST => GET http://localhost:8080/ from [::1]:52516
+[2025-11-02 19:45:45] [T12] RESPONSE => 400 49 bytes for http://localhost:8080/
+[2025-11-02 19:45:45] [T12] [END] http://localhost:8080/ - Finished process on thread: 12
+[2025-11-02 19:45:45] [T12] [START] http://localhost:8080/favicon.ico - Process on thread: 12
+[2025-11-02 19:45:45] [T12] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:52516
+[2025-11-02 19:45:45] [T12] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 19:45:45] [T12] [END] http://localhost:8080/favicon.ico - Finished process on thread: 12
+[2025-11-02 19:45:58] [T12] [START] http://localhost:8080/?q=harry+potter - Process on thread: 12
+[2025-11-02 19:45:58] [T12] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:52516
+[2025-11-02 19:46:41] [T10] RESPONSE => 200 7911 bytes for http://localhost:8080/?q=harry+potter
+[2025-11-02 19:46:41] [T10] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 10
+[2025-11-02 19:46:42] [T12] [START] http://localhost:8080/favicon.ico - Process on thread: 12
+[2025-11-02 19:46:42] [T12] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:52516
+[2025-11-02 19:46:42] [T12] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 19:46:42] [T12] [END] http://localhost:8080/favicon.ico - Finished process on thread: 12
+[2025-11-02 19:46:44] [T12] [START] http://localhost:8080/?q=harry+potter - Process on thread: 12
+[2025-11-02 19:46:44] [T12] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:52516
+[2025-11-02 19:47:39] [T12] [START] http://localhost:8080/?q=harry+potter - Process on thread: 12
+[2025-11-02 19:47:39] [T12] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:49322
+[2025-11-02 19:47:39] [T16] ERROR    => HttpListenerException (ProcessRequest): The specified network name is no longer available.
+[2025-11-02 19:47:40] [T16] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 16
+[2025-11-02 19:47:40] [T18] RESPONSE => 200 7911 bytes for http://localhost:8080/?q=harry+potter
+[2025-11-02 19:47:40] [T18] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 18
+[2025-11-02 19:47:40] [T12] [START] http://localhost:8080/favicon.ico - Process on thread: 12
+[2025-11-02 19:47:40] [T12] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:49322
+[2025-11-02 19:47:40] [T12] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 19:47:40] [T12] [END] http://localhost:8080/favicon.ico - Finished process on thread: 12
+[2025-11-02 19:47:42] [T12] [START] http://localhost:8080/?q=harry+potter - Process on thread: 12
+[2025-11-02 19:47:42] [T12] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:49322
+[2025-11-02 19:47:43] [T20] RESPONSE => 200 7911 bytes for http://localhost:8080/?q=harry+potter
+[2025-11-02 19:47:43] [T20] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 20
+[2025-11-02 19:47:43] [T12] [START] http://localhost:8080/favicon.ico - Process on thread: 12
+[2025-11-02 19:47:43] [T12] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:49322
+[2025-11-02 19:47:43] [T12] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 19:47:43] [T12] [END] http://localhost:8080/favicon.ico - Finished process on thread: 12
+[2025-11-02 19:47:49] [T12] [START] http://localhost:8080/?q=harry+potter - Process on thread: 12
+[2025-11-02 19:47:49] [T12] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:49322
+[2025-11-02 19:47:50] [T19] RESPONSE => 200 7911 bytes for http://localhost:8080/?q=harry+potter
+[2025-11-02 19:47:50] [T19] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 19
+[2025-11-02 19:47:50] [T12] [START] http://localhost:8080/favicon.ico - Process on thread: 12
+[2025-11-02 19:47:50] [T12] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:49322
+[2025-11-02 19:47:50] [T12] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 19:47:50] [T12] [END] http://localhost:8080/favicon.ico - Finished process on thread: 12
+[2025-11-02 19:48:28] [T12] Web server stoped.
+[2025-11-02 19:48:28] [T1] Server stopped.
+[2025-11-02 19:54:06] [T1] Server started at http://localhost:8080/
+[2025-11-02 19:54:15] [T11] [START] http://localhost:8080/?q=harry+potter - Process on thread: 11
+[2025-11-02 19:54:15] [T11] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:59970
+[2025-11-02 19:54:16] [T7] RESPONSE => 200 7830 bytes for http://localhost:8080/?q=harry+potter
+[2025-11-02 19:54:16] [T7] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 7
+[2025-11-02 19:54:16] [T11] [START] http://localhost:8080/favicon.ico - Process on thread: 11
+[2025-11-02 19:54:16] [T11] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:59970
+[2025-11-02 19:54:16] [T11] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 19:54:16] [T11] [END] http://localhost:8080/favicon.ico - Finished process on thread: 11
+[2025-11-02 19:54:18] [T11] [START] http://localhost:8080/?q=harry+potter - Process on thread: 11
+[2025-11-02 19:54:18] [T11] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:59970
+[2025-11-02 19:54:19] [T6] RESPONSE => 200 7911 bytes for http://localhost:8080/?q=harry+potter
+[2025-11-02 19:54:19] [T6] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 6
+[2025-11-02 19:54:19] [T11] [START] http://localhost:8080/favicon.ico - Process on thread: 11
+[2025-11-02 19:54:19] [T11] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:59970
+[2025-11-02 19:54:19] [T11] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 19:54:19] [T11] [END] http://localhost:8080/favicon.ico - Finished process on thread: 11
+[2025-11-02 19:55:07] [T11] [START] http://localhost:8080/?q=indiana+jones - Process on thread: 11
+[2025-11-02 19:55:07] [T11] REQUEST => GET http://localhost:8080/?q=indiana+jones from [::1]:59970
+[2025-11-02 19:55:08] [T15] RESPONSE => 200 5705 bytes for http://localhost:8080/?q=indiana+jones
+[2025-11-02 19:55:08] [T15] [END] http://localhost:8080/?q=indiana+jones - Finished process on thread: 15
+[2025-11-02 19:55:08] [T11] [START] http://localhost:8080/favicon.ico - Process on thread: 11
+[2025-11-02 19:55:08] [T11] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:59970
+[2025-11-02 19:55:08] [T11] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 19:55:08] [T11] [END] http://localhost:8080/favicon.ico - Finished process on thread: 11
+[2025-11-02 19:59:11] [T11] Web server stoped.
+[2025-11-02 19:59:11] [T1] Server stopped.
+[2025-11-02 20:45:29] [T1] Server started at http://localhost:8080/
+[2025-11-02 20:45:31] [T177] [START] http://localhost:8080/ - Process on thread: 177
+[2025-11-02 20:45:31] [T177] REQUEST => GET http://localhost:8080/ from [::1]:63722
+[2025-11-02 20:45:31] [T177] RESPONSE => 400 49 bytes for http://localhost:8080/
+[2025-11-02 20:45:31] [T177] [END] http://localhost:8080/ - Finished process on thread: 177
+[2025-11-02 20:45:31] [T177] [START] http://localhost:8080/favicon.ico - Process on thread: 177
+[2025-11-02 20:45:31] [T177] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:63722
+[2025-11-02 20:45:31] [T177] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 20:45:31] [T177] [END] http://localhost:8080/favicon.ico - Finished process on thread: 177
+[2025-11-02 20:45:49] [T177] [START] http://localhost:8080/?q=harry+potter - Process on thread: 177
+[2025-11-02 20:45:49] [T177] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:63722
+[2025-11-02 20:45:50] [T162] ERROR    => NullReferenceException (ProcessRequest): Object reference not set to an instance of an object.
+[2025-11-02 20:45:50] [T162] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 162
+[2025-11-02 20:48:13] [T1] Server started at http://localhost:8080/
+[2025-11-02 20:48:14] [T177] [START] http://localhost:8080/ - Process on thread: 177
+[2025-11-02 20:48:14] [T177] REQUEST => GET http://localhost:8080/ from [::1]:65512
+[2025-11-02 20:48:14] [T177] RESPONSE => 400 49 bytes for http://localhost:8080/
+[2025-11-02 20:48:14] [T177] [END] http://localhost:8080/ - Finished process on thread: 177
+[2025-11-02 20:48:15] [T177] [START] http://localhost:8080/favicon.ico - Process on thread: 177
+[2025-11-02 20:48:15] [T177] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:65512
+[2025-11-02 20:48:15] [T177] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 20:48:15] [T177] [END] http://localhost:8080/favicon.ico - Finished process on thread: 177
+[2025-11-02 20:48:26] [T177] [START] http://localhost:8080/?q=harry+potter - Process on thread: 177
+[2025-11-02 20:48:26] [T177] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:65512
+[2025-11-02 20:48:27] [T6] RESPONSE => 200 8238 bytes for http://localhost:8080/?q=harry+potter
+[2025-11-02 20:48:27] [T6] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 6
+[2025-11-02 20:48:27] [T177] [START] http://localhost:8080/favicon.ico - Process on thread: 177
+[2025-11-02 20:48:27] [T177] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:65512
+[2025-11-02 20:48:27] [T177] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 20:48:27] [T177] [END] http://localhost:8080/favicon.ico - Finished process on thread: 177
+[2025-11-02 20:49:50] [T177] [START] http://localhost:8080/?q=indiana+jones - Process on thread: 177
+[2025-11-02 20:49:50] [T177] REQUEST => GET http://localhost:8080/?q=indiana+jones from [::1]:65512
+[2025-11-02 20:49:51] [T181] RESPONSE => 200 6031 bytes for http://localhost:8080/?q=indiana+jones
+[2025-11-02 20:49:51] [T181] [END] http://localhost:8080/?q=indiana+jones - Finished process on thread: 181
+[2025-11-02 20:49:51] [T177] [START] http://localhost:8080/favicon.ico - Process on thread: 177
+[2025-11-02 20:49:51] [T177] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:65512
+[2025-11-02 20:49:51] [T177] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 20:49:51] [T177] [END] http://localhost:8080/favicon.ico - Finished process on thread: 177
+[2025-11-02 20:53:51] [T1] Server started at http://localhost:8080/
+[2025-11-02 20:53:54] [T171] [START] http://localhost:8080/ - Process on thread: 171
+[2025-11-02 20:53:54] [T171] REQUEST => GET http://localhost:8080/ from [::1]:58473
+[2025-11-02 20:53:54] [T171] RESPONSE => 400 49 bytes for http://localhost:8080/
+[2025-11-02 20:53:54] [T171] [END] http://localhost:8080/ - Finished process on thread: 171
+[2025-11-02 20:53:54] [T171] [START] http://localhost:8080/favicon.ico - Process on thread: 171
+[2025-11-02 20:53:54] [T171] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:58473
+[2025-11-02 20:53:54] [T171] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 20:53:54] [T171] [END] http://localhost:8080/favicon.ico - Finished process on thread: 171
+[2025-11-02 20:54:03] [T171] [START] http://localhost:8080/?q=harry+potter - Process on thread: 171
+[2025-11-02 20:54:03] [T171] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:58473
+[2025-11-02 20:54:04] [T9] RESPONSE => 200 8240 bytes for http://localhost:8080/?q=harry+potter
+[2025-11-02 20:54:04] [T9] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 9
+[2025-11-02 20:54:04] [T171] [START] http://localhost:8080/favicon.ico - Process on thread: 171
+[2025-11-02 20:54:04] [T171] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:58473
+[2025-11-02 20:54:04] [T171] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 20:54:04] [T171] [END] http://localhost:8080/favicon.ico - Finished process on thread: 171
+[2025-11-02 21:06:47] [T1] Server started at http://localhost:8080/
+[2025-11-02 21:06:59] [T1] Server started at http://localhost:8080/
+[2025-11-02 21:07:27] [T179] [START] http://localhost:8080/ - Process on thread: 179
+[2025-11-02 21:07:27] [T179] REQUEST => GET http://localhost:8080/ from [::1]:53360
+[2025-11-02 21:07:27] [T179] RESPONSE => 400 49 bytes for http://localhost:8080/
+[2025-11-02 21:07:27] [T179] [END] http://localhost:8080/ - Finished process on thread: 179
+[2025-11-02 21:07:27] [T179] [START] http://localhost:8080/favicon.ico - Process on thread: 179
+[2025-11-02 21:07:27] [T179] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:53360
+[2025-11-02 21:07:27] [T179] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 21:07:27] [T179] [END] http://localhost:8080/favicon.ico - Finished process on thread: 179
+[2025-11-02 21:07:35] [T179] [START] http://localhost:8080/?q=harry+potter - Process on thread: 179
+[2025-11-02 21:07:35] [T179] REQUEST => GET http://localhost:8080/?q=harry+potter from [::1]:53360
+[2025-11-02 21:07:36] [T3] RESPONSE => 200 8239 bytes for http://localhost:8080/?q=harry+potter
+[2025-11-02 21:07:36] [T3] [END] http://localhost:8080/?q=harry+potter - Finished process on thread: 3
+[2025-11-02 21:07:38] [T179] [START] http://localhost:8080/favicon.ico - Process on thread: 179
+[2025-11-02 21:07:38] [T179] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:53360
+[2025-11-02 21:07:38] [T179] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 21:07:38] [T179] [END] http://localhost:8080/favicon.ico - Finished process on thread: 179
+[2025-11-02 21:08:08] [T179] [START] http://localhost:8080/.well-known/appspecific/com.chrome.devtools.json - Process on thread: 179
+[2025-11-02 21:08:08] [T179] REQUEST => GET http://localhost:8080/.well-known/appspecific/com.chrome.devtools.json from [::1]:53360
+[2025-11-02 21:08:08] [T179] RESPONSE => 400 49 bytes for http://localhost:8080/.well-known/appspecific/com.chrome.devtools.json
+[2025-11-02 21:08:08] [T179] [END] http://localhost:8080/.well-known/appspecific/com.chrome.devtools.json - Finished process on thread: 179
+[2025-11-02 21:08:24] [T179] [START] http://localhost:8080/?q=indiana+jones - Process on thread: 179
+[2025-11-02 21:08:24] [T179] REQUEST => GET http://localhost:8080/?q=indiana+jones from [::1]:53360
+[2025-11-02 21:08:25] [T176] RESPONSE => 200 6028 bytes for http://localhost:8080/?q=indiana+jones
+[2025-11-02 21:08:25] [T176] [END] http://localhost:8080/?q=indiana+jones - Finished process on thread: 176
+[2025-11-02 21:08:25] [T179] [START] http://localhost:8080/favicon.ico - Process on thread: 179
+[2025-11-02 21:08:25] [T179] REQUEST => GET http://localhost:8080/favicon.ico from [::1]:53360
+[2025-11-02 21:08:25] [T179] RESPONSE => 400 49 bytes for http://localhost:8080/favicon.ico
+[2025-11-02 21:08:25] [T179] [END] http://localhost:8080/favicon.ico - Finished process on thread: 179
+[2025-11-02 21:08:45] [T179] Web server stoped.
+[2025-11-02 21:08:45] [T1] Server stopped.
